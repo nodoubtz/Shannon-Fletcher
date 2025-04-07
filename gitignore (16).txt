@@ -1,0 +1,22 @@
+# Secrets and sensitive information
+*.pem
+*.key
+*.crt
+*.env
+*.enc
+*.p12
+*.pfx
+*.cert
+*.cer
+
+# Log files
+*.log
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Environment data
+.env.local
+.env.*. 
