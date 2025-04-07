@@ -1,3 +1,5 @@
+[![CodeQL Advanced](https://github.com/nodoubtz/Shannon-Fletcher/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/nodoubtz/Shannon-Fletcher/actions/workflows/codeql.yml)
+
 # Shannon-Fletcher
 
 Welcome to the Shannon-Fletcher repository!
